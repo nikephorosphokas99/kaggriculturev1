@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.env
+.claude
+.github
+.vscode
+
+dataset/
+*.zip
+*.tar.gz
